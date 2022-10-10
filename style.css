@@ -1,0 +1,242 @@
+#top {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 400%;
+    color: rgb(27, 218, 218);
+    text-decoration: none;
+    padding: 0em;
+}
+
+#prog {
+    text-align: center;
+    color: lightslategray;
+    font-family: arial;
+    font-size: x-large;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.firstdiv {
+    width: 100%;
+    background-color: lavender;
+}
+
+#cld {
+    display: flex;
+    justify-content: right;
+    padding-top: 5em;
+    padding-right: 10em;
+}
+
+#cld1 {
+    display: flex;
+    align-items: center;
+    padding-left: 10em;
+}
+
+#tree {
+    display: flex;
+    justify-content: center;
+}
+
+#work {
+    text-align: center;
+    font-size: small;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: aqua;
+}
+
+#dash {
+    color: black;
+    text-align: center;
+}
+
+.seconddiv {
+    width: 100%;
+    text-align: center;
+}
+
+#skill {
+    text-align: center;
+    color: aqua;
+    font-weight: bold;
+}
+
+hr {
+    size: 50pt;
+    color: black;
+    justify-content: center;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+
+}
+
+#face {
+    width: 180px;
+    height: 180px;
+    overflow: hidden;
+    -webkit-border-radius: 90px;
+    -moz-border-radius: 90px;
+    border-radius: 90px;
+    background-size: 100px 0px;
+    padding-top: 2em;
+}
+
+#comp {
+    width: 100%;
+   display: flex;
+    justify-content: center;
+    text-align: justify;
+    
+}
+
+h3 {
+    text-align: right;
+    color: aqua;
+    font-family: Arial;
+   
+}
+
+#int {
+    text-align: justify;
+    color: black;
+    padding-left: 10em;
+
+}
+
+#stu {
+    text-align: justify;
+    padding-left: 18em;
+}
+
+#student1 {
+    text-align: justify;
+    color: black;
+    padding-left: 21em;
+}
+
+#teach {
+   width: 100%;
+   /* display: flex;
+    justify-content: center;*/
+}
+
+#teacher {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    overflow: hidden;
+    -webkit-border-radius: 80px;
+    -moz-border-radius: 80px;
+    border-radius: 80px;
+    background-size: 100px 0px;
+    padding-left: 53em;
+  
+}
+
+.ima {
+    max-width: 100%;
+    height: auto;
+    background-color: lightgrey;
+    display: block;
+   text-align: center;
+   transform: scale(1.1);
+}
+
+.images2 {
+    max-width: 30%;
+    height: 63vh; 
+    
+}
+.image:hover{
+   transform: scale(1.1);
+}
+
+.images4 {
+    max-width: 30%;
+    height: 63vh;
+}
+
+.images6 {
+    max-width: 30%;
+    height: 63vh;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: aqua;
+    color: green;
+    padding: 1.5em;
+}
+
+button {
+    background-color: cyan;
+    border: none;
+    border-radius: 10px;
+    font-size: large;
+    margin-bottom: 5em;
+}
+
+#contact {
+    display: flex;
+    justify-content: center;
+    padding-left: 15em;
+}
+
+#bu {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: whitesmoke;
+    display: inline;
+  
+}
+
+button:hover {
+    background-color: green;
+    transition: 0.7s;
+}
+
+#love {
+    text-align: center;
+    color: darkgray;
+}
+
+footer {
+    background-color: darkgrey;
+    border: 5rem;
+    text-align: center;
+    padding: 3em;
+      
+}
+#foot{
+   color: blue;
+   
+    text-decoration: none;
+    word-spacing: 30px;
+}
+.fa-regular{
+    color: aliceblue;
+}
+#copy{
+   color: aliceblue;
+}
+.handles{
+    display: inline;
+    word-spacing: 30px; 
+    
+}
+#get{
+    text-align: center;
+    margin-top: 5em;
+}
